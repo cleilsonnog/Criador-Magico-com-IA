@@ -1,6 +1,8 @@
-Criador Mágico com IA
+# 🚀 Meu Projeto Incrível 🚀
 
-Usado as estruturas HTML e CSS
+Criador Mágico com IA.
+
+Usado as estruturas HTML e CSS com responsividade.
 
 Com a linguagem JavaScript
 
